@@ -1,0 +1,73 @@
+.man{
+  border: 1px solid black;
+  height: 145px;
+  width: 1000px;
+  background-color: rgb(245, 245, 245);
+  border-radius: 15px;
+  box-shadow: 1px 1px 7px #c8c8c8;
+}
+.hope{
+  border: 1px solid black;
+  margin-bottom: 50px;
+  margin-top: 18px;
+  border-radius: 15px;
+  box-shadow: 2px 1px 7px #c8c8c8;
+}
+.big{
+  background-color: rgb(181, 180, 180);
+  height: 30px;
+  margin-top: 0px;
+}
+.ride{
+  /* background-color: rgb(245, 245, 0); */
+  margin-top: 10px;
+  height: 50px;
+}
+.be{
+  background-color: rgb(181, 180, 180);
+}
+.kill{
+  padding-left: 5px;
+  border-radius: 35px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  box-shadow: 1px 1px 7px #c8c8c8;
+}
+.boards{
+  border-radius: 15px;
+  border: 1px solid black;
+  height: 145px;
+  width: 1000px;
+  box-shadow: 1px 1px 7px #c8c8c8;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.num{
+  background-color: rgb(181, 180, 180);
+  margin-top: 8px;
+  margin-bottom: 8px;
+  /* background-color: #c8c8c8; */
+}
+.done{
+  background-color: rgb(181, 180, 180);
+}
+.oby{
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: rgb(242, 245, 242);
+  height: 55px;
+  width: 1000px;
+  box-shadow: 1px 1px 7px #c8c8c8;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.pay{
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgb(242, 245, 242);
+  height: 90px;
+  width: 1000px;
+  box-shadow: 1px 1px 7px #c8c8c8;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
